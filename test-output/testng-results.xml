@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-11T21:56:33 IST" name="Default suite" finished-at="2023-12-11T21:56:52 IST" duration-ms="19304">
+    <groups>
+    </groups>
+    <test started-at="2023-12-11T21:56:33 IST" name="Default test" finished-at="2023-12-11T21:56:52 IST" duration-ms="19304">
+      <class name="com.testng.excel.DataProviderTest$DataProviderSamples">
+        <test-method signature="testMethod(java.lang.String,java.lang.String)[pri:0, instance:com.testng.excel.DataProviderTest$DataProviderSamples@52b1beb6]" started-at="2023-12-11T21:56:34 IST" name="testMethod" data-provider="excelData" finished-at="2023-12-11T21:56:40 IST" duration-ms="6766" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suganya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sug@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod(java.lang.String,java.lang.String)[pri:0, instance:com.testng.excel.DataProviderTest$DataProviderSamples@52b1beb6]" started-at="2023-12-11T21:56:40 IST" name="testMethod" data-provider="excelData" finished-at="2023-12-11T21:56:47 IST" duration-ms="6130" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sugantha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Suga@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod(java.lang.String,java.lang.String)[pri:0, instance:com.testng.excel.DataProviderTest$DataProviderSamples@52b1beb6]" started-at="2023-12-11T21:56:47 IST" name="testMethod" data-provider="excelData" finished-at="2023-12-11T21:56:52 IST" duration-ms="5615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Subasri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sub@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- com.testng.excel.DataProviderTest$DataProviderSamples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
